@@ -87,7 +87,7 @@ public class Beo { //Đặt tên lớp không phù hợp với chương trình
 
                     // Lỗi trong vòng lặp nếu y < x
                     StringBuilder result = new StringBuilder("Các số chia hết cho 3: "); //StringBuilder result = new StringBuilder("Các số chia hết cho 3: "); nếu danh sách số lớn, có thể tối ưu bằng cách sử dụng StringJoiner.
-                    for (int i = x; i < y; i++) { // Nếu y < x, vòng lặp for sẽ không hoạt động hợp lý, có thể gây lỗi logic. Cần kiểm tra trước khi lặp.
+                    for (int i = x; i < y; i++) { // Nếu y < x, vòng lặp for sẽ không hoạt động hợp lý, có thể gây lỗi logic. Cần kiểm tra trước khi lặp. 
 
                         if (i % 3 == 0) {
                             result.append(i); //Cần thêm ", " khi nối chuỗi trong StringBuilder để danh sách số rõ ràng hơn.
