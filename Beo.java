@@ -59,7 +59,7 @@ public class Beo { //Đặt tên lớp không phù hợp với chương trình
         frame.getContentPane().add(lblNewLabel_2);
 
         num1 = new JTextField();
-        num1.setText("0"); // để trống mặc định sẽ hay hơn
+        num1.setText("0"); // để trống mặc định sẽ hay hơn 
         num1.setBounds(138, 79, 96, 20);
         frame.getContentPane().add(num1);
         num1.setColumns(10);
