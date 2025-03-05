@@ -7,7 +7,7 @@ import javax.swing.JTextField;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-
+//nên trực tiếp import các như java.swing.*
 public class Beo {
 
     private JFrame frame;
