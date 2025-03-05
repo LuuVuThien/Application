@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 /Sữa lại
 public class Beo {
-
+/Sữa lại
     private JFrame frame;
     private JTextField num1;
     private JTextField num2;
