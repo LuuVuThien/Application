@@ -1,5 +1,5 @@
 package SInhVIen;
-/lỗi chỗ này sữa lại
+
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -7,9 +7,9 @@ import javax.swing.JTextField;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-/Sữa lại
+
 public class Beo {
-/Sữa lại
+
     private JFrame frame;
     private JTextField num1;
     private JTextField num2;
