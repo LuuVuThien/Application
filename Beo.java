@@ -8,7 +8,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 // trực tiếp import như java.swing.*;
-public class Beo { //Đặt tên lớp không phù hợp với chương trình
+public class Beo { //Đặt tên lớp không phù hợp với chương trình 
 
     private JFrame frame;
     private JTextField num1;
