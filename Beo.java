@@ -1,4 +1,4 @@
-package SInhVIen;
+package SInhVIen; // tên này không hợp lý
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;
