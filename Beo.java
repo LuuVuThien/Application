@@ -1,5 +1,5 @@
 package SInhVIen;
-/lỗi chỗ này
+/lỗi chỗ này sữa lại
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
